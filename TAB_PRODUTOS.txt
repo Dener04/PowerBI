@@ -1,0 +1,11 @@
+cod.produto,nome,categoria,valor
+101,Camisa Polo Masculina,Roupas,79.99
+202,Calça Jeans Skinny Feminina,Roupas,99.99
+303,Tênis Esportivo Nike,Calçados,199.99
+404,Óculos de Sol Wayfarer,Acessórios,49.99
+505,Perfume Amor Amor 100ml,Perfumaria,149.99
+606,Bolsa Tote de Couro Feminina,Bolsas,129.99
+707,Relógio Analógico Dourado,Relógios,89.99
+808,Boné Aba Reta Snapback,Acessórios,29.99
+909,Meia Esportiva Cano Médio,Meias,9.99
+1010,Carteira de Couro Legítimo,Acessórios,39.99

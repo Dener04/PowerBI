@@ -1,0 +1,6 @@
+cod.vendedor,nome,idade
+101,Carlos Silva,28
+202,Ana Souza,32
+303,Paulo Oliveira,35
+404,Mariana Santos,29
+505,Lucas Pereira,31
